@@ -1,0 +1,2 @@
+
+python real_time_object_detection.py --prototxt deploy.prototxt.txt --model deploy.caffemodel
