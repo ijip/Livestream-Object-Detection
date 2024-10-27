@@ -182,12 +182,3 @@ The script leverages a pre-trained **MobileNet SSD** model with OpenCV's `dnn` m
 - Real-time video feed with bounding boxes and labels.
 - Console output showing FPS metrics.
 
----
-
-## License
-
-All projects in this repository are licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request.
